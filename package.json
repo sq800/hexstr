@@ -1,0 +1,25 @@
+{
+    "name": "hexstr",
+    "version": "1.0.5",
+    "description": "A JavaScript library for processing hexadecimal strings. 一个用于处理十六进制字符串的JavaScript库",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "type": "module",
+    "scripts": {
+        "test": "vitest --coverage"
+    },
+    "author": "sq800",
+    "license": "MIT",
+    "keywords": [
+        "BCD",
+        "hexString",
+        "Binary",
+        "HEX",
+        "Array",
+        "utils"
+    ],
+    "devDependencies": {
+        "@vitest/coverage-c8": "^0.31.4",
+        "vitest": "^0.31.4"
+    }
+}
