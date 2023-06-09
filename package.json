@@ -5,6 +5,10 @@
     "main": "index.js",
     "types": "index.d.ts",
     "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sq800/hexstr.git"
+    },
     "scripts": {
         "test": "vitest --coverage"
     },
