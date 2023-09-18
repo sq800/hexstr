@@ -1,6 +1,6 @@
 {
     "name": "hexstr",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "A JavaScript library for processing hexadecimal strings. 一个用于处理十六进制字符串的JavaScript库",
     "main": "index.js",
     "types": "index.d.ts",
